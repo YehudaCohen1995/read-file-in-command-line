@@ -16,3 +16,4 @@ The software will look for the letter in the number n end return the uski for th
 3. all the program write in c 
 
 ### where there worng file name the program print arr masseg and worg for oder file
+## and where n > from the max latter in the file 
