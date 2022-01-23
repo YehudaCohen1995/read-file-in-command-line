@@ -15,5 +15,6 @@ The software will look for the letter in the number n end return the uski for th
 2. make file in side file make file
 3. all the program write in c 
 
+## err massege
 ### where there worng file name the program print arr masseg and worg for oder file
-## and where n > from the max latter in the file 
+### and where n > from the max latter in the file 
