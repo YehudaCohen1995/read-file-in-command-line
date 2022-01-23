@@ -9,3 +9,4 @@ this program read a program that accepts as arguments in the command line:
 For each file in the transferred file list, the method prints a message to the standard output,
 Which contains the husky code of the character instead of the n in the file (for the first character in file 1 = n. 
 The Husky code will be printed on a tenth basis.
+![](Screenshot from 2022-01-17 09-37-15.png)
