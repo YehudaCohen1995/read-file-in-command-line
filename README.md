@@ -12,6 +12,6 @@ The Husky code will be printed on a tenth basis.
 
 ![](img/Screenshot%20from%202022-01-17%2009-37-15.png)
 
-#זה הדרישות של המערכת בעברית 
-
-
+1. file for input in file imput 
+2. make file in side file make file
+3. all the program write in c 
