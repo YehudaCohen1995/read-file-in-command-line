@@ -6,9 +6,9 @@ this program read a program that accepts as arguments in the command line:
 * The system receives a positive integer n greater than 0.
 * List of input file names,
 
-For each file in the transferred file list, the method prints a message to the standard output,
-Which contains the husky code of the character instead of the n in the file (for the first character in file 1 = n. 
-The Husky code will be printed on a tenth basis.
+The software will look for the letter in the number n end return the uski for the n-1 in from start in the file 
+
+## where there worng file name the program print arr masseg and worg for odher file
 
 ![](img/Screenshot%20from%202022-01-17%2009-37-15.png)
 
